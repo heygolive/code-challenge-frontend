@@ -7,7 +7,7 @@ This challenge has two parts:
 
 We're looking for elegant, clean solutions.  Try to think of and handle possible edge cases.
 
-This challenge is sent to experienced developers and newcomers alike. Developers who are familiar with the technologies can complete this within an hour, those who are less familiar will take longer. We suggest spending a maximum of 2 hours on this challenge, the objective is to demonstrate you think through a problem.
+This challenge is sent to experienced developers and newcomers alike. We suggest spending a maximum of 2 hours on this challenge, the objective is to demonstrate you think through a problem.
 
 ## Part 1: Questions
 
