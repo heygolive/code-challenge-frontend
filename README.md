@@ -1,4 +1,4 @@
-# Virtualtrips Front end code challenge
+# Heygo Front end code challenge
 
 This challenge has two parts:
 
@@ -62,6 +62,6 @@ Feel free to organize your code for part 2 into this directory however you like.
 You'll get bonus points if you
  * Provide good documentation
  * Add tests your code
- * Deploy your code to production for the Virtualtrips team to use.
+ * Deploy your code to production for the Heygo team to use.
 
 Good luck!
